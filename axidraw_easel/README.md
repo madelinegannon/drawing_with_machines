@@ -10,7 +10,10 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 ## Files
 
 ## BOM
-
+- 3d printing filament
+- 24 inch x 24 inch x 3/4 inch plywood sheet 
+- [7/16 inch diameter x 1/8 inch height magnets](https://www.mcmaster.com/5862K157/) 
+- Hot glue / glue adhesive
 ## Add-ons
 
 ### Roll Holder
@@ -18,3 +21,8 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 ### Jetson Nano Holder
 
 ## Assembly Instructions
+Tools / supplies
+- Hand Drill
+- Drill bits up to 1/2 inch
+- Hot glue gun / glue adhesive
+- 
