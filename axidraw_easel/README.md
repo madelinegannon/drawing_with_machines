@@ -40,20 +40,12 @@ As of making this tutorial, a Jetson Nano holder has not been designed, however 
 
 ## Assembly Instructions
 
-1- Start printing the various mounts and jigs provided above.
-
-2- Using your AxiDraw, plot out the magnet template onto an A3 sheets and tape them together. 
-
-3- Take the magnet template and mount it to the bottom side of your plywood. Note that because the magnets are mounted below the plywood, the template has been mirrored.
-
-4- Using a 1/8" inch bit, start to predrill holes where there are + signs marked on the template. Work your way up to 1/2" inch holes being careful to not go through the plywood. Once this is done, check to make sure the magnets fit.
-
-5- Using your hot glue gun, place a dollop of glue inside the holes drilled into the plywood. To place the magnet inside of the hole, I marked another magnet and placed it on the other side of the plywood and allowed it to magnetize to another sitting on the bottom surface. By dragging the magnet underthe location of the hole, it snaps it into place while ensuring the correct polarity of the magnets. 
-
-6- Place a bit glue inside the holes of the 3d printed jigs and secure a magnet inside. Again, make sure the polarity of these are consistant with the ones placed into the board.
-
-7- Once all of the magnets have been placed, it's time to mount the axidraw and jigs. The first one you will want to place is the Alignment Jig which will hold the AxiDraw's feet in place.
-
-8- Once you are confident in the alignment of the machine, plot the gridded surface on top of the board. I've provide the Illustrator file if you want to customize the bed grid. Using the Corner Jigs, ensure the 0,0 position aligns with the inside corner. Sharpie worked best for us. Give it some time to dry, then continue.
-
-9- That's it! Now, it's time to experiment with the machine. Here you can find a few tutorials we've created to help you get started :)
+1. Start printing the various mounts and jigs provided above.
+2. Using your AxiDraw, plot out the magnet template onto an A3 sheets and tape them together. 
+3. Take the magnet template and mount it to the bottom side of your plywood. Note that because the magnets are mounted below the plywood, the template has been mirrored.
+4. Using a 1/8" inch bit, start to predrill holes where there are + signs marked on the template. Work your way up to 1/2" inch holes being careful to not go through the plywood. Once this is done, check to make sure the magnets fit.
+5. Using your hot glue gun, place a dollop of glue inside the holes drilled into the plywood. To place the magnet inside of the hole, I marked another magnet and placed it on the other side of the plywood and allowed it to magnetize to another sitting on the bottom surface. By dragging the magnet underthe location of the hole, it snaps it into place while ensuring the correct polarity of the magnets. 
+6. Place a bit glue inside the holes of the 3d printed jigs and secure a magnet inside. Again, make sure the polarity of these are consistant with the ones placed into the board.
+7. Once all of the magnets have been placed, it's time to mount the axidraw and jigs. The first one you will want to place is the Alignment Jig which will hold the AxiDraw's feet in place.
+8. Once you are confident in the alignment of the machine, plot the gridded surface on top of the board. I've provide the Illustrator file if you want to customize the bed grid. Using the Corner Jigs, ensure the 0,0 position aligns with the inside corner. Sharpie worked best for us. Give it some time to dry, then continue.
+9. That's it! Now, it's time to experiment with the machine. Here you can find a few tutorials we've created to help you get started :)
