@@ -13,7 +13,7 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 ## Files
 - Magnet Template
 - Grid for drawing surface
-- Alignment Jig
+- Machine Alignment Jig
 - Corner Jig
 - Straight Jig
 - DXF Grid for making your own mods
