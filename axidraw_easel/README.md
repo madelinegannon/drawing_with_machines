@@ -34,7 +34,7 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 
 This project uses a 30mm grid as the base unit for each module. A 7/16 inch diameter x 1/8 inch height hole should be placed in the center of the square created by the grid to accomidate the magnets. 
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/components-top.jpg" width=100>
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/components-top.jpg" width=1000>
 
 ### Roll Holder
 
