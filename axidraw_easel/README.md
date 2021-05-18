@@ -1,6 +1,6 @@
 # AxiDraw Easel
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/heroGif.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/hero.gif" width=1000 >
 
 A modular, extensible, magnet-based easel design for the AxiDraw V3/A3
 
