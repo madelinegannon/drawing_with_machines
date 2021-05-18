@@ -18,6 +18,8 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 - Straight Jig
 - DXF Grid for making your own mods
 <img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/straight-jig.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/alignment-jig.gif" width=1000 >
+<img src="" width=1000>
 
 ## BOM
 - 3d printing filament
