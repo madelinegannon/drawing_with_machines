@@ -1,6 +1,6 @@
 # AxiDraw Easel
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/hero.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/hero.gif" width=1000 >
 
 A modular, extensible, magnet-based easel design for the AxiDraw V3/A3
 
@@ -18,9 +18,9 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 - Straight Jig
 - DXF Grid for making your own mods
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/corner-jig.gif" width=1000>
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/straight-jig.gif" width=1000 >
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/alignment-jig.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/corner-jig.gif" width=1000>
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/straight-jig.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/alignment-jig.gif" width=1000 >
 
 
 ## BOM
@@ -39,7 +39,7 @@ This easel helps you plot drawings that are larger than the 11" x 17" plot area 
 
 This project uses a 30mm grid as the base unit for each module. A 7/16 inch diameter x 1/8 inch height hole should be placed in the center of the square created by the grid to accomidate the magnets. 
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/images/components-top.jpg" width=1000>
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/components-top.jpg" width=1000>
 
 ### Roll Holder
 
