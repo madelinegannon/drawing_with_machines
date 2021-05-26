@@ -1,16 +1,16 @@
 # AxiDraw Easel
-
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/hero.gif" width=1000 >
-
-A modular, extensible, magnet-based easel design for the AxiDraw V3/A3
+#### A modular, magnetic drawing easel for the AxiDraw V3/A3 robotic plotter
 
 _Designed by [Madeline Gannon](https://github.com/madelinegannon) and [Chris Ference](https://github.com/chrisference), May 2021_
+
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/hero.gif" width=1000 >
 
 
 ## Overview
 This easel helps you plot drawings that are larger than the 11" x 17" plot area of the [AxiDraw V3/A3](https://shop.evilmadscientist.com/productsmenu/890). It features a grid system with magnetic clamps, fences, and addons that hold, align, and re-register your paper or machine as needed.
 
 ## Files
+All the 2D & 3D files to make and modify this easel design are here in this repo.
 - Magnet Template
 - Grid for drawing surface
 - Machine Alignment Jig
