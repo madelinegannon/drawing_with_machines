@@ -1,7 +1,7 @@
 # AxiDraw Easel
 #### A modular, magnetic drawing easel for the AxiDraw V3/A3 robotic plotter
 
-_Designed by [Madeline Gannon](https://github.com/madelinegannon) and [Chris Ference](https://github.com/chrisference), May 2021_
+_Designed by [Madeline Gannon](https://github.com/madelinegannon) and [Chris Ference](https://github.com/chrisference), Summer 2021_
 
 <img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/hero.gif" width=1000 >
 
@@ -26,7 +26,7 @@ These jigs work like alignment fences or clamps, depending on their orientation.
 | [jig_shoe_left.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_left.stl), [jig_shoe_right.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_right.stl) | [jig_corner.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_corner.stl) | [jig_straight.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_straight.stl) |
 
 ## Module
-We use a 30mm grid as the base unit for each module. 
+We use a 30mm grid as the base unit for each module. Extend as you see fit!
 
 <img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jigs_top.jpg" width=1000>
 
