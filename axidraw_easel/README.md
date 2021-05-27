@@ -26,7 +26,7 @@ These jigs work like alignment fences or clamps, depending on their orientation.
 
 <img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_corner.gif" width=1000>
 <img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_straight.gif" width=1000 >
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_alignment.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_shoe.gif" width=1000 >
 
 
 ## BOM
