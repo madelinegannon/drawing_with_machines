@@ -19,54 +19,50 @@ All the 2D & 3D files to make and modify this easel design are [here](https://gi
 
 ### 3D Files
 These jigs work like alignment fences or clamps, depending on their orientation.
-- AxiDraw Alignment Jigs ([LEFT](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_left.stl), [RIGHT](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_right.stl))
-- Corner Jig ([STL](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_corner.stl))
-- Straight Jig ([STL](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_straight.stl))
+
+| AxiDraw Alignment Jigs | Corner Jig | Straight Jig |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_shoe.gif) | ![](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_corner.gif) | ![](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_straight.gif) |
+| [jig_shoe_left.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_left.stl), [jig_shoe_right.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_right.stl) | [jig_corner.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_corner.stl) | [jig_straight.stl](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_straight.stl) |
+
+## Module
+We use a 30mm grid as the base unit for each module. 
+
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jigs_top.jpg" width=1000>
+
+## Build Your Own
 
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_corner.gif" width=1000>
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_straight.gif" width=1000 >
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_shoe.gif" width=1000 >
-
-
-## BOM
-- 3d printing filament
-- 24 inch x 24 inch x 3/4 inch plywood sheet (or larger)
-- [7/16 inch diameter x 1/8 inch height magnets](https://www.mcmaster.com/5862K157/) ... lots of them.
-
-## Tools / Supplies
+### Tools & Supplies
+- 3D Printer
+- min. 24 inch x 24 inch x 3/4 inch sheet material with smooth surfacce (e.g., MDF, finished plywood)
+- Magnets: [7/16" x 1/8"](https://www.mcmaster.com/5862K157/) ... lots of them.
 - Hand Drill
 - Drill bits up to 1/2 inch
 - Hot glue gun / glue adhesive
 - A3 (or larger) Paper
 - Blue tape
 
-## Add-ons / Design Guidelines
+### Fabrication Instructions
 
-This project uses a 30mm grid as the base unit for each module. A 7/16 inch diameter x 1/8 inch height hole should be placed in the center of the square created by the grid to accomidate the magnets. 
+1. Print your desired [mounts and jigs](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/).
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jigs_top.jpg" width=1000>
+2. Use your AxiDraw to plot the magnet template onto an A3 sheets of paper. Tape them together into one large sheet. 
 
-### Roll Holder
+3. Tape this magnet template to the bottom side of your plywood. 
+> NOTE: The template has been mirrored so it can be mounted below the plywood.
 
-TBD
+4. Use a 1/8" inch bit to predrill holes where there are + signs marked on the template. Work your way up to 1/2" inch holes being careful to not go through the plywood. Once this is done, check to make sure the magnets fit.
 
-## Assembly Instructions
+5. Use your hot glue gun to glue a magnet inside each hole. 
+> TIP: Use another magnet on the other side of the plywood to _pull_ this magnet into its hole. Not only does this snap it into place, it also ensures the correct polarity of the magnets. 
 
-1. Start printing the various mounts and jigs provided above.
-
-2. Using your AxiDraw, plot out the magnet template onto an A3 sheets and tape them together. 
-
-3. Take the magnet template and mount it to the bottom side of your plywood. Note that because the magnets are mounted below the plywood, the template has been mirrored.
-
-4. Using a 1/8" inch bit, start to predrill holes where there are + signs marked on the template. Work your way up to 1/2" inch holes being careful to not go through the plywood. Once this is done, check to make sure the magnets fit.
-
-5. Using your hot glue gun, place a dollop of glue inside the holes drilled into the plywood. To place the magnet inside of the hole, I marked another magnet and placed it on the other side of the plywood and allowed it to magnetize to another sitting on the bottom surface. By dragging the magnet underthe location of the hole, it snaps it into place while ensuring the correct polarity of the magnets. 
-
-6. Place a bit glue inside the holes of the 3d printed jigs and secure a magnet inside. Again, make sure the polarity of these are consistant with the ones placed into the board.
+6. Glue magnets inside the holes in each 3D printed jig.
+> NOTE: Make sure the polarity of these are consistant with the ones placed into the board.
 
 7. Once all of the magnets have been placed, it's time to mount the axidraw and jigs. The first one you will want to place is the Alignment Jig which will hold the AxiDraw's feet in place.
 
-8. Once you are confident in the alignment of the machine, plot the gridded surface on top of the board. I've provide the Illustrator file if you want to customize the bed grid. Using the Corner Jigs, ensure the 0,0 position aligns with the inside corner. Sharpie worked best for us. Give it some time to dry, then continue.
+8. Once you are confident in the alignment of the machine, plot the gridded surface on top of the board. We've provided the Illustrator file if you want to customize the bed grid. 
+> TIP: Use the Corner Jigs to ensure that the 0,0 position aligns with the inside corner. Also, a fine-tipped Sharpie worked best for us, but give it some time to dry.
 
 9. That's it! Now, it's time to experiment with the machine.
