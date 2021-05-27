@@ -10,23 +10,29 @@ _Designed by [Madeline Gannon](https://github.com/madelinegannon) and [Chris Fer
 This easel helps you plot drawings that are larger than the 11" x 17" plot area of the [AxiDraw V3/A3](https://shop.evilmadscientist.com/productsmenu/890). It features a grid system with magnetic clamps, fences, and addons that hold, align, and re-register your paper or machine as needed.
 
 ## Files
-All the 2D & 3D files to make and modify this easel design are here in this repo.
-- Magnet Template
-- Grid for drawing surface
-- Machine Alignment Jig
-- Corner Jig
-- Straight Jig
-- DXF Grid for making your own mods
+All the 2D & 3D files to make and modify this easel design are [here](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files) in this repo.
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/corner-jig.gif" width=1000>
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/straight-jig.gif" width=1000 >
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/alignment-jig.gif" width=1000 >
+### 2D Files
+- Layout for the Magnet Grid ([SVG](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/layout_magnets.svg))
+- Layout for the Drawing Grid ([SVG](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/layout_grid.svg))
+- Full Illustrator File ([AI](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/layout_axidraw_easel.ai))
+
+### 3D Files
+These jigs work like alignment fences or clamps, depending on their orientation.
+- AxiDraw Alignment Jigs ([LEFT](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_left.stl), [RIGHT](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_shoe_right.stl))
+- Corner Jig ([STL](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_corner.stl))
+- Straight Jig ([STL](https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/files/jig_straight.stl))
+
+
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_corner.gif" width=1000>
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_straight.gif" width=1000 >
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jig_alignment.gif" width=1000 >
 
 
 ## BOM
 - 3d printing filament
-- 24 inch x 24 inch x 3/4 inch plywood sheet(or larger)
-- [7/16 inch diameter x 1/8 inch height magnets](https://www.mcmaster.com/5862K157/) 
+- 24 inch x 24 inch x 3/4 inch plywood sheet (or larger)
+- [7/16 inch diameter x 1/8 inch height magnets](https://www.mcmaster.com/5862K157/) ... lots of them.
 
 ## Tools / Supplies
 - Hand Drill
@@ -39,13 +45,11 @@ All the 2D & 3D files to make and modify this easel design are here in this repo
 
 This project uses a 30mm grid as the base unit for each module. A 7/16 inch diameter x 1/8 inch height hole should be placed in the center of the square created by the grid to accomidate the magnets. 
 
-<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/components-top.jpg" width=1000>
+<img src="https://github.com/madelinegannon/drawing_with_machines/blob/main/axidraw_easel/images/jigs_top.jpg" width=1000>
 
 ### Roll Holder
 
-### Jetson Nano Holder
-
-As of making this tutorial, a Jetson Nano holder has not been designed, however there are four magnets behind the circuit board of the Axidraw that can be used for mounting a Jetson Nano to. 
+TBD
 
 ## Assembly Instructions
 
@@ -65,4 +69,4 @@ As of making this tutorial, a Jetson Nano holder has not been designed, however 
 
 8. Once you are confident in the alignment of the machine, plot the gridded surface on top of the board. I've provide the Illustrator file if you want to customize the bed grid. Using the Corner Jigs, ensure the 0,0 position aligns with the inside corner. Sharpie worked best for us. Give it some time to dry, then continue.
 
-9. That's it! Now, it's time to experiment with the machine. Here you can find a few tutorials we've created to help you get started :)
+9. That's it! Now, it's time to experiment with the machine.
